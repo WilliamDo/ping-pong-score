@@ -1,4 +1,4 @@
-package mog.net.tabletennisumpire;
+package com.ultimaspin.pingpongscore;
 
 import mog.net.tabletennisumpire.model.Game;
 import mog.net.tabletennisumpire.model.Match;
